@@ -1,0 +1,14 @@
+{
+  "name": "protractorproject",
+  "version": "1.0.0",
+  "description": "functional test practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qqwang",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^3.3.0"
+  }
+}
